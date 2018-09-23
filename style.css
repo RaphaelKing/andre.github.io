@@ -25,3 +25,33 @@
     font-family: Exo, sans-serif;
     font-family: Orbitron, sans-serif;
 }
+.row1 {
+    border: 1px black solid;
+    width: 10px;
+    height: 50px;
+    background-color: red;
+}
+
+.row2 {
+    border: 1px black solid;
+    width: 10px;
+    height: 50px;
+    background-color: red;
+}
+.row3 {
+    border: 1px black solid;
+    width: 10px;
+    height: 50px;
+    background-color: red;
+}
+body {
+    background-color: black;
+}
+.kanye {
+    display: flex;
+    justify-content: center;
+    margin-left: auto;
+    margin-right: auto;
+    width: 40%;
+}
+}
